@@ -1,0 +1,4 @@
+[submodule "multi-branch"]
+	path = multi-branch
+	url = git@github.com:xmarts/multi-branch.git
+	branch = 14.0
