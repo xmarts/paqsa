@@ -7,3 +7,8 @@
 	path = credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
 	branch = 14
+
+[submodule "l10n-mx-pos-global-invoice"]
+	path = l10n-mx-pos-global-invoice
+	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
+	branch = 14.0
