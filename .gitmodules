@@ -12,3 +12,8 @@
 	path = l10n-mx-pos-global-invoice
 	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
 	branch = 14.0
+
+[submodule "l10n-mx-xml-invoice"]
+	path = l10n-mx-xml-invoice
+	url = git@github.com:xmarts/l10n-mx-xml-invoice.git
+	branch = 14.0
