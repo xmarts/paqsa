@@ -2,3 +2,8 @@
 	path = l10n-mx-xml-invoice
 	url = git@github.com:xmarts/l10n-mx-xml-invoice.git
 	branch = 14.0
+
+[submodule "credit_limit_alert_update"]
+	path = credit_limit_alert_update
+	url = git@github.com:xmarts/credit_limit_alert_update.git
+	branch = 14
