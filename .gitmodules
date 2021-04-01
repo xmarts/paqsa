@@ -20,6 +20,3 @@
 [submodule "paqsa_submodule/"]
 	path = paqsa_submodule/
 	url = ""
-[submodule "paqsa_submodule"]
-	path = paqsa_submodule
-	url = https://github.com/xmarts/paqsa_submodule.git
