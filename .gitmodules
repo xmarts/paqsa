@@ -22,3 +22,8 @@
 	path = xmarts/l10n-mx-pos-global-invoice
 	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
 	branch = 14.0
+
+[submodule "xmarts/paqsa_submodule"]
+	path = xmarts/paqsa_submodule
+	url = git@github.com:xmarts/paqsa_submodule.git
+	branch = 1.0
