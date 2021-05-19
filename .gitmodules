@@ -27,3 +27,8 @@
 	path = xmarts/paqsa_submodule
 	url = git@github.com:xmarts/paqsa_submodule.git
 	branch = 1.0
+
+[submodule "xmarts/pos_create_product"]
+	path = xmarts/pos_create_product
+	url = git@github.com:xmarts/pos_create_product.git
+	branch = main
