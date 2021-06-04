@@ -17,3 +17,8 @@
 	path = multi-branch
 	url = git@github.com:xmarts/multi-branch.git
 	branch = 14.0
+
+[submodule "xmarts/paqsa_submodule"]
+	path = xmarts/paqsa_submodule
+	url = git@github.com:xmarts/paqsa_submodule.git
+	branch = 1.0
