@@ -27,3 +27,6 @@
 	path = xmarts/purchase-discount
 	url = git@github.com:xmarts/purchase-discount.git
 	branch = 14.0
+[submodule "payment_method_validation"]
+	path = payment_method_validation
+	url = git@github.com:xmarts/payment_method_validation.git
