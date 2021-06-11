@@ -22,3 +22,8 @@
 	path = xmarts/paqsa_submodule
 	url = git@github.com:xmarts/paqsa_submodule.git
 	branch = 1.0
+
+[submodule "xmarts/purchase-discount"]
+	path = xmarts/purchase-discount
+	url = git@github.com:xmarts/purchase-discount.git
+	branch = 14.0-Paqsa
