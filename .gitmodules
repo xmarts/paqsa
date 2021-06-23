@@ -30,3 +30,6 @@
 [submodule "payment_method_validation"]
 	path = payment_method_validation
 	url = git@github.com:xmarts/payment_method_validation.git
+[submodule "xma_second_discount"]
+	path = xma_second_discount
+	url = git@github.com:xmarts/xma_second_discount.git
