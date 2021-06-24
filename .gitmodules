@@ -33,3 +33,6 @@
 [submodule "xma_second_discount"]
 	path = xma_second_discount
 	url = git@github.com:xmarts/xma_second_discount.git
+[submodule "abc-category"]
+	path = abc-category
+	url = git@github.com:xmarts/abc-category.git
