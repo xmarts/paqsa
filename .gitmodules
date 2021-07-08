@@ -36,3 +36,8 @@
 [submodule "abc-category"]
 	path = abc-category
 	url = git@github.com:xmarts/abc-category.git
+
+[submodule "sales_commission_generic"]
+	path = sales_commission_generic
+	url = git@github.com:xmarts/sales_commission_generic.git
+	branch = main
