@@ -22,3 +22,8 @@
 	path = xmarts/paqsa_submodule
 	url = git@github.com:xmarts/paqsa_submodule.git
 	branch = 1.0
+
+[submodule "outgoing_routing"]
+	path = outgoing_routing
+	url = git@github.com:xmarts/outgoing_routing.git
+	branch = main
